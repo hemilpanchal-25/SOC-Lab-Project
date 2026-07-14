@@ -82,4 +82,5 @@ SOC-LAB-PROJECT/
 This lab was performed entirely within an isolated virtual environment for educational purposes only. The techniques demonstrated (brute force attacks) should never be used against systems you do not own or have explicit authorization to test.
 
 ## 👤 Author
+**Hemil Panchal**
 Prepared as part of a personal/academic cybersecurity internship and SOC lab practice project.
